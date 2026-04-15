@@ -21,20 +21,20 @@ I am a computer science student interested in AI and machine learning. I am curr
   - Skills: Git, GitHub, VS Code, virtual environments, branch management
 
 - **Team Collaboration Pipeline** — Collaborated on a shared repository using feature branches and code review, resolving merge conflicts and maintaining a clean commit history.
-  - Repo: [https://github.com/LevelUp-Applied-AI/m2-l2-data-pipeline-RawanQuraish/pull/1](#)
+  - Repo: [M1 — Applied Lab](https://github.com/LevelUp-Applied-AI/m1-l1-git-workflows-RawanQuraish/pull/1)
   - Skills: Git collaboration, pull requests, code review, merge conflict resolution
 
 **Data Pipelines & PyTorch Fundamentals**
 
 - **Data Pipeline** — Built an end-to-end data loading and preprocessing pipeline using pandas, with validation checks and reproducible outputs.
-  - Repo: [https://github.com/LevelUp-Applied-AI/m3-i3-etl-pipeline-RawanQuraish/pull/1](#)
+  - Repo: [Pipeline Basics](https://github.com/LevelUp-Applied-AI/m2-d2-pipeline-basics-RawanQuraish/pull/1)
   - Skills: Python, pandas, data cleaning, pipeline design
 
 - **PyTorch Model** — Implemented a neural network training loop in PyTorch, including data loading, forward/backward passes, and evaluation metrics.
-  - Repo: [https://github.com/LevelUp-Applied-AI/m2-i2-pytorch-RawanQuraish/pull/1](#)
+  - Repo: [PyTorch Housing Price Prediction](https://github.com/LevelUp-Applied-AI/m2-i2-pytorch-RawanQuraish/pull/1)
   - Skills: PyTorch, tensor operations, training loops, model evaluation
 
-**Relational Databases & SQL**
+<!--**Relational Databases & SQL**
 
 - **Project Name** — One sentence describing what you built.
   - Repo: [https://github.com/LevelUp-Applied-AI/m3-l3-sql-analytics-RawanQuraish/pull/1](#)
@@ -110,7 +110,7 @@ I am a computer science student interested in AI and machine learning. I am curr
   - Skills: Full-stack AI/ML system
 
 ---
-
+-->
 ## Contact
 
 - **GitHub:** [https://github.com/RawanQuraish](https://github.com/your-github-username)
