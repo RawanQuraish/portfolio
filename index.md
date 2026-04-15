@@ -113,6 +113,6 @@ I am a computer science student interested in AI and machine learning. I am curr
 -->
 ## Contact
 
-- **GitHub:** [https://github.com/RawanQuraish]
-- **LinkedIn:** [https://www.linkedin.com/in/rawan-quraish-64284619a/]
+- **GitHub:** [RawanQuraish](https://github.com/RawanQuraish)
+- **LinkedIn:** [Rawan Quraish](https://www.linkedin.com/in/rawan-quraish-64284619a/)
 - **Email:** rawan.quraish@gmail.com
