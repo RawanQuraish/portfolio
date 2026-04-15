@@ -17,7 +17,7 @@ I am a computer science student interested in AI and machine learning. I am curr
 **Git, Environment Setup & Collaboration**
 
 - **Environment & Git Workflows** — Set up a reproducible Python development environment and practiced branching, merging, and pull request workflows.
-  - Repo: [https://github.com/LevelUp-Applied-AI/m1-l1-git-workflows-RawanQuraish/pull/1](#)
+  - Repo: [https://github.com/LevelUp-Applied-AI/m1-l1-git-workflows-RawanQuraish/pull/1]
   - Skills: Git, GitHub, VS Code, virtual environments, branch management
 
 - **Team Collaboration Pipeline** — Collaborated on a shared repository using feature branches and code review, resolving merge conflicts and maintaining a clean commit history.
